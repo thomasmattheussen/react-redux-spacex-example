@@ -1,0 +1,13 @@
+.rockets__list {
+    list-style-type: none;
+    padding: 0;
+    margin: 2rem 0;
+}
+
+.rockets__list > li {
+    padding: 0.5rem 0;
+}
+
+.rockets__list > li::before {
+    content: '🚀 ';
+}

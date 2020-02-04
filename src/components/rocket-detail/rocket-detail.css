@@ -1,0 +1,15 @@
+.rocket-detail {
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    border-radius: 2px;
+    padding: 2rem;
+    max-width: 500px;
+    margin: 0 auto;
+    margin-top: 2rem;
+}
+
+.rocket-detail__visual {
+    width: 100%;
+}
